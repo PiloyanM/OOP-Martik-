@@ -1,8 +1,8 @@
-Russian Roulette Game
+Plants vs Zombies
 
 Introduction
 
-The idea of the project is to make a Russian Roulette Game. The game will be developed for up to 5 players to play simultaneously. During the game, players will get some extra opportunities, such as skipping the move, making other players shoot, etc.
+The idea of the project is to make a game like a very popular game Plants vs Zombies. The game will be developed for 2 players to play simultaneously. The game will include differnt classes, such as zombies and plants, through which, with the inheritance wiil be created diiferent kind of Zombies and Plants. The game will also include some items, which will benefit the players.
 
 Authors
 
